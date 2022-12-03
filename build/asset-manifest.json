@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.709efe20.css",
+    "main.js": "/static/js/main.be0cfc78.js",
+    "static/media/background.png": "/static/media/background.220520f2836ffdc9dd76.png",
+    "static/media/clock.png": "/static/media/clock.4f652c109c3ac3d0233d.png",
+    "static/media/iphone.png": "/static/media/iphone.83a5ca3fdff90c3128a3.png",
+    "static/media/image-phone.png": "/static/media/image-phone.59ef2ebc1bb17c38dc02.png",
+    "static/media/gold.png": "/static/media/gold.10d0784c9b3be8c11efc.png",
+    "static/media/naushniks.png": "/static/media/naushniks.b5e82960807718c1817e.png",
+    "static/media/head2.png": "/static/media/head2.05b61401b2af3f0e53a6.png",
+    "static/media/head1.png": "/static/media/head1.a5a1340321aeacaaa1d5.png",
+    "static/media/gilroy1.ttf": "/static/media/gilroy1.0094146a0505298ed06a.ttf",
+    "static/media/gilroy2.ttf": "/static/media/gilroy2.cc7ab55d27205bd64001.ttf",
+    "static/media/tels.png": "/static/media/tels.8b6c5a3377516eee7dc9.png",
+    "static/media/S.png": "/static/media/S.a99a44827c4be8d3b523.png",
+    "static/media/v.png": "/static/media/v.948a6f849af2080c8af2.png",
+    "static/media/n.png": "/static/media/n.7c0b48e4620646cfa4bf.png",
+    "static/media/e.png": "/static/media/e.bb384468c1c45b7254ac.png",
+    "static/media/logo.png": "/static/media/logo.3987d4d4d9bb2c478394.png",
+    "static/media/calls.png": "/static/media/calls.db124a0350a6e7e93ef0.png",
+    "static/media/intg4.ttf": "/static/media/intg4.954fff7ed20fe87c7d9e.ttf",
+    "static/media/intg1.ttf": "/static/media/intg1.e8bf6e3cf7064510da05.ttf",
+    "static/media/intg5.ttf": "/static/media/intg5.c85c9e9c39fde1cb5c54.ttf",
+    "static/media/intg3.ttf": "/static/media/intg3.71e05361e2e71031bb94.ttf",
+    "static/media/intg.ttf": "/static/media/intg.a11ef9385d3dcc8efe50.ttf",
+    "static/media/intg2.ttf": "/static/media/intg2.3e1109f2281ec92be428.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.709efe20.css.map": "/static/css/main.709efe20.css.map",
+    "main.be0cfc78.js.map": "/static/js/main.be0cfc78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709efe20.css",
+    "static/js/main.be0cfc78.js"
+  ]
+}
